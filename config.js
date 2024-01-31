@@ -1,19 +1,19 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["1154494919038222448", ""],
   botInvite: "",
-  supportServer: "",
+  supportServer: "discord.gg/grapes",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'Ruthless .gg/Grapes',
   commandsDir: './commands',
   language: "en",
-  embedColor: "00fbff",
+  embedColor: "A020F0",
   errorLog: "",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.youtube.com/channel/UC0gihhSJpXbYhCDoOD1WPmA",
   },
 
   voteManager: {
@@ -47,7 +47,7 @@ module.exports = {
 
     },
 
-    maxVol: 150,
+    maxVol: 200,
 
   }
 }
