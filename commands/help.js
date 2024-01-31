@@ -58,8 +58,8 @@ module.exports = {
         ) 
        .setImage('https://media.discordapp.net/attachments/1193299427889262602/1200871913195585619/bannerdem.gif?ex=65c7c21f&is=65b54d1f&hm=63b2c38269306b3dab52b5f32caea906cb7c1f0508737ae6fc982124b2ba74ef&=&width=768&height=270')
       const button1 = new ButtonBuilder()
-        .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UC0gihhSJpXbYhCDoOD1WPmA')
+        .setLabel('Insta')
+        .setURL('https://www.instagram.com/dabronxa')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
