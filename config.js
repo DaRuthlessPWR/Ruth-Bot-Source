@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1154494919038222448", ""],
   botInvite: "",
   supportServer: "discord.gg/grapes",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://sub:itspossibler@cluster0.xbflmtx.mongodb.net/?retryWrites=true&w=majority",
   status: 'Ruthless .gg/Grapes',
   commandsDir: './commands',
   language: "en",
